@@ -1,30 +1,30 @@
-## Privacy Policy
-Velouse operates as an Amazon Alexa Skill created by Mohamed Arradi-Alaoui. It is Velouse's policy to respect your privacy regarding any information we may collect while operating.
+## Politique de confidentialité
+Velouse fonctionne comme une Skill Amazon Alexa créée par Mohamed Arradi-Alaoui. La politique de Velouse est de respecter votre vie privée à l’égard des informations que nous pouvons collecter pendant l’exploitation.
 
-We use your Personal Information only to provide a personalized user experience. By enabling the skill, you agree to use of information in accordance with this policy.
+Vos informations personnelles (adresse) est uniquement pour fournir une expérience utilisateur personnalisée. En activant la compétence, vous acceptez d'utiliser les informations conformément à cette politique.
 
-**Gathering of Personally-Identifying Information**
+**Récupération d'information personnelle**
 
-Certain users to Velouse's skill choose to interact with Velouse in ways that require Velouse does not gather personal identifying information.
+Certains utilisateurs du Skill de Velouse choisissent d'interagir avec Velouse de manière à ce que Velouse ne collecte pas d'informations d'identification personnelles.
 
 **Information We Collect from Other Sources**
 
- we also don't obtain information about you from other sources.
+Nous n'obtenons pas non plus d'informations sur vous à partir d'autres sources.
 
-**Data Retention Policy**
+**Politique de conservation des données**
 
-We don't not retain any user provided data.
+Nous ne conservons aucune donnée fournie par l'utilisateur.
 
-**Log Data**
+**Données de journal**
 
-To be able to investigate issues with the skill, Velouse stores logs with Amazon CloudWatch. These logs don't include personally-identifying information but only GPS coordinates, which are not exposed, sold or used besides the tracking of issues.
+Pour pouvoir identifier les problèmes liés à la compétence, Velouse stocke les journaux avec Amazon CloudWatch. Ces journaux n'incluent pas d'informations d'identification personnelle, mais uniquement les coordonnées GPS, qui ne sont ni exposées, ni vendues, ni utilisées, en plus du suivi des problèmes.
 
-**Privacy Policy Changes**
+**Modifications de la politique de confidentialité**
 
-Although most changes are likely to be minor, Velouse may change its Privacy Policy from time to time, and in Velouse's sole discretion. Velouse encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this skill after any change in this Privacy Policy will constitute your acceptance of such change.
+Bien que la plupart des modifications soient probablement mineures, Velouse peut modifier sa politique de confidentialité de temps à autre et à la seule discrétion de Velouse. Velouse encourage les visiteurs à consulter fréquemment cette page pour tout changement de sa politique de confidentialité. Votre utilisation continue de cette compétence après tout changement dans la présente politique de confidentialité constituera votre acceptation de ce changement.
 
 **Change Log**
 
-2019/01/30 - First version of the privacy policy
+2019/01/30 - Première version des conditions d'utilisations.
 
-A big thank you to [Automattic](https://automattic.com) for providing this privacy policy template under [Creative Commmons](https://creativecommons.org/licenses/by-sa/4.0/).
+Un grand merci à [Automattic](https://automattic.com) pour fournir cette politique de confidentialité template sous licence [Creative Commmons](https://creativecommons.org/licenses/by-sa/4.0/).
