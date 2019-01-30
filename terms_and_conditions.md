@@ -1,4 +1,4 @@
-# Terms of use
+# Terms of use / Conditions d'utilisation
 
 Ces conditions d'utilisation ont été compilées pour aider les utilisateurs. Veuillez lire attentivement nos conditions d'utilisation pour bien comprendre la façon dont nous recueillons, utilisons, protégeons ou manipulons autrement vos informations personnellement identifiables, conformément à notre application / compétence Alexa.
 
