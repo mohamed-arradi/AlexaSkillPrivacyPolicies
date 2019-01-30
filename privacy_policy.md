@@ -7,7 +7,7 @@ Vos informations personnelles (adresse) est uniquement pour fournir une expérie
 
 Certains utilisateurs du Skill de Velouse choisissent d'interagir avec Velouse de manière à ce que Velouse ne collecte pas d'informations d'identification personnelles.
 
-**Information We Collect from Other Sources**
+**Information que nous collectons depuis des sources tierces**
 
 Nous n'obtenons pas non plus d'informations sur vous à partir d'autres sources.
 
