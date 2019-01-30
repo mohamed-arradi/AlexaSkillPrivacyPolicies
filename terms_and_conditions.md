@@ -1,17 +1,15 @@
 # Terms of use
 
-This Terms of Use has been compiled to help the users. Please read our Terms of use carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our App/Alexa Skill.
+Ces conditions d'utilisation ont été compilées pour aider les utilisateurs. Veuillez lire attentivement nos conditions d'utilisation pour bien comprendre la façon dont nous recueillons, utilisons, protégeons ou manipulons autrement vos informations personnellement identifiables, conformément à notre application / compétence Alexa.
 
-If you continue to use this App/Alexa Skill, you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern relationship with you in relation to this App/Alexa Skill. If you disagree with any part of these terms and conditions, please do not use our App/Alexa Skill.
+Si vous continuez à utiliser cette application / Alexa Skill, vous acceptez de vous conformer aux conditions d'utilisation suivantes, qui, conjointement avec notre politique de confidentialité, régissent les relations avec vous dans le cadre de cette application / Alexa Skill. Si vous êtes en désaccord avec une partie quelconque de ces termes et conditions, veuillez ne pas utiliser notre application / Alexa Skill.
 
-The term 'us' or 'we' refers to the App/Alexa Skill. The term 'you' refers to the user or viewer of our App/Alexa Skill.
+Le terme «nous» ou «nous» fait référence à la compétence App / Alexa. Le terme "vous" désigne l'utilisateur ou le spectateur de notre application / compétence Alexa.
 
-The use of this App/Alexa Skill is subject to the following terms of use:
+L'utilisation de cette application / Alexa Skill est soumise aux conditions d'utilisation suivantes:
 
-The content of the App/Alexa Skill is for general information and entertainment use only. It is subject to change without notice.
-This App/Alexa Skill doesn't uses cookies to monitor browsing preferences. Neither we nor any third parties provide any warranty or guarantee as to the accuracy, timeliness, performance, completeness or suitability of the information and materials found or offered on this App/Alexa Skill for any particular purpose. You acknowledge that such information and materials may contain inaccuracies or errors and we expressly exclude liability for any such inaccuracies or errors to the fullest extent permitted by law.
+Le contenu de l'App / Alexa Skill est uniquement destiné à l'information générale et au divertissement. Un changement sans préavis est possible. Cette compétence App / Alexa n'utilise pas de cookies pour surveiller les préférences de navigation. Ni nous ni aucun tiers ne fournissons aucune garantie quant à l'exactitude, la rapidité, la performance, l'exhaustivité ou la pertinence des informations et des matériels trouvés ou proposés sur cette appli / Alexa Skill à des fins particulières. Vous reconnaissez que ces informations et matériaux peuvent contenir des inexactitudes ou des erreurs et nous excluons expressément toute responsabilité pour ces inexactitudes ou erreurs dans toute la mesure permise par la loi.
 
-Your use of any information or materials on this App/Alexa Skill is entirely at your own risk, for which we shall not be liable. It shall be your own responsibility to ensure that any products, services or information available through this App/Alexa Skill meet your specific requirements.
-This App/Alexa Skill contains material which is licensed to us or free to use. This material includes, but is not limited to, the design, layout, look, appearance and graphics. Reproduction is prohibited other than in accordance with the copyright notice, which forms part of these terms and conditions.
+Votre utilisation de toute information ou matériel sur cette appli / Alexa Skill est entièrement à vos risques et périls, pour lesquels nous ne serons pas responsables. Il sera de votre responsabilité de vous assurer que tous les produits, services ou informations disponibles via cette application / Alexa Skill répondent à vos besoins spécifiques. Cette application / compétence Alexa contient du matériel qui nous est autorisé ou gratuit. Ce matériel inclut, sans toutefois s'y limiter, la conception, la mise en page, l'apparence, l'apparence et les graphiques. La reproduction est interdite autrement que conformément à la notice de copyright, qui fait partie intégrante de ces termes et conditions.
 
-All trade marks reproduced in this App/Alexa Skill which are not the property of, or licensed to, the operator are acknowledged on the App/Alexa Skill.
+Toutes les marques reproduites dans cette appli / compétence Alexa qui ne sont pas la propriété de l’opérateur, ni concédées sous licence, sont reconnues dans l’application / Alexa Skill.
