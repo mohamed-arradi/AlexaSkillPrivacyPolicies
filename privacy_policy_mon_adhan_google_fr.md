@@ -1,11 +1,11 @@
 ## Politique de confidentialité
-Mon Adhan fonctionne comme une App Google Assistant créée par Mohamed Arradi-Alaoui. La politique de Mon Adhan est de respecter votre vie privée à l’égard des informations que nous pouvons collecter pendant l’exploitation.
+Adhan Salat fonctionne comme une App Google Assistant créée par Mohamed Arradi-Alaoui. La politique de Adhan Salat est de respecter votre vie privée à l’égard des informations que nous pouvons collecter pendant l’exploitation.
 
 Vos informations personnelles (adresse, coordonnées ) est uniquement pour fournir une expérience utilisateur personnalisée. En activant la compétence, vous acceptez d'utiliser les informations conformément à cette politique.
 
 **Récupération d'information personnelle**
 
-Certains utilisateurs de l'app google action mon adhan choisissent d'interagir avec Mon Adhan de manière à ce que Mon Adhan ne collecte pas d'informations d'identification personnelles.
+Certains utilisateurs de l'app google action Adhan Salat choisissent d'interagir avec Adhan Salat de manière à ce que Adhan Salat ne collecte pas d'informations d'identification personnelles.
 
 **Information que nous collectons depuis des sources tierces**
 
@@ -17,11 +17,11 @@ Nous ne conservons aucune donnée fournie par l'utilisateur.
 
 **Données de journal**
 
-Pour pouvoir identifier les problèmes liés à la compétence, Mon Adhan sauvegarde les journaux avec Firebase Log. Ces journaux n'incluent pas d'informations d'identification personnelle.
+Pour pouvoir identifier les problèmes liés à la compétence, Adhan Salat sauvegarde les journaux avec Firebase Log. Ces journaux n'incluent pas d'informations d'identification personnelle.
 
 **Modifications de la politique de confidentialité**
 
-Bien que la plupart des modifications soient probablement mineures, Mon Adhan peut modifier sa politique de confidentialité de temps à autre et à la seule discrétion de Mon Adhan. Mon Adhan encourage les visiteurs à consulter fréquemment cette page pour tout changement de sa politique de confidentialité. Votre utilisation continue de cette compétence après tout changement dans la présente politique de confidentialité constituera votre acceptation de ce changement.
+Bien que la plupart des modifications soient probablement mineures, Adhan Salat peut modifier sa politique de confidentialité de temps à autre et à la seule discrétion de Adhan Salat. Adhan Salat encourage les visiteurs à consulter fréquemment cette page pour tout changement de sa politique de confidentialité. Votre utilisation continue de cette compétence après tout changement dans la présente politique de confidentialité constituera votre acceptation de ce changement.
 
 **Change Log**
 
